@@ -1,4 +1,4 @@
-# Unity-Android-Files-Opener
+# Service Always Background
  Sample application that will run a service on a background (**including API Level 24 or higher**).
  The application will always run on the background
 
